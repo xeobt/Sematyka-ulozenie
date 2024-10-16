@@ -1,0 +1,6 @@
+main{display: flex; height: 120vh;}
+#left{background-color: rgb(37, 158, 77); color: white; width: 100vw; max-width: 70%; height: 120;}
+#right{background-color: rgb(250, 0, 0); color: white; width:30%; height: 100%; max-height: 100%;}
+html, body{height: 100%;}
+#left{flex: 1;}
+#header{text-align: center; background-color: black; height: 290px; color: white; font-size: 50px; width: 100%; font-family:Arial, Helvetica, sans-serif;}
